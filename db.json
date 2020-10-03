@@ -1,0 +1,30 @@
+{
+  "research": [
+    {
+      "id": "11c9f6d1-3818-4e2a-8194-028654376603",
+      "cover": "https://images.pexels.com/photos/356040/pexels-photo-356040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "topic": "COVID-19",
+      "title": "Rage and Breath: Permeating the Disenfranchised and/in Corona Virus",
+      "author": "LILLEBAELT ACADEMY UNIVERSITY OF APPLIED SCIENCES",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+
+    {
+      "id": "9cd59565-fe73-4581-be8d-571f1de8fe03",
+      "cover": "https://images.pexels.com/photos/3912374/pexels-photo-3912374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "topic": "COVID-19",
+      "title": "Analyzing the Subaltern and/in Corona Virus",
+      "author": "Dr. Maurice Cuypers",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+
+    {
+      "id": "64cd012b-8995-41a6-84d4-13f5ad3b013c",
+      "cover": "https://images.pexels.com/photos/716276/pexels-photo-716276.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "topic": "University",
+      "title": "Writing Hard-Working Otherness: Your Own Symbol and/in the Clan",
+      "author": "Dr. Maurice Cuypers",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+  ]
+}
